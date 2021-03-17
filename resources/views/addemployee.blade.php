@@ -36,7 +36,7 @@
 <h1><strong>Enter Employee Details</strong></h1></center>
             <div class="col col-12 col-sm-3 col-md-3 col-lg-3">   </div>
             
-            <div class="col col-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
             <tr>
                 <td>Empname</td>
                 <td><input type="text" class="form-control"></td>
@@ -74,6 +74,7 @@
                 <td><button class="btn btn-success">Submit</button></td>
             </tr>   
             </div>
+            <div class="col col-12 col-sm-3 col-md-3 col-lg-3"></div>
         </div>
     </div>
 
