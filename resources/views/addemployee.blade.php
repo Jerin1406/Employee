@@ -69,6 +69,7 @@
                 <td>Phone No:</td>
                 <td><input type="text" class="form-control"></td>
             </tr>
+            <br>
             <tr>
                 <td></td>
                 <td><button class="btn btn-success">Submit</button></td>
